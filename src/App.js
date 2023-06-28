@@ -13,6 +13,8 @@ function App() {
       <Header />
       <Balance />
       <IncomeExpenses />
+      <TransactionList />
+
     </div>
   );
 }
